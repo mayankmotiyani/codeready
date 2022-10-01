@@ -51,6 +51,7 @@ INSTALLED_APPS = [
     'user_application',
     'navbar_application',
     'footer_application',
+    'debug_toolbar',
 ]
 
 
