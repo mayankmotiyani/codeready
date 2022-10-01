@@ -52,6 +52,7 @@ INSTALLED_APPS = [
     'navbar_application',
     'footer_application',
     'debug_toolbar',
+    'corsheaders',
 ]
 
 
