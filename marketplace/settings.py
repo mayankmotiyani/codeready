@@ -49,12 +49,8 @@ INSTALLED_APPS = [
     'market_app',
     'home_page',
     'user_application',
-    'django_filter',
     'navbar_application',
     'footer_application',
-   
-    
-  
 ]
 
 
